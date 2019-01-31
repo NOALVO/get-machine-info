@@ -1,0 +1,31 @@
+{
+  "name": "get-machine-info",
+  "version": "1.0.0",
+  "description": "A simple module to extract system's current username + machine name + private &amp; public IP addresses + a hash off all this stuff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NOALVO/get-machine-info.git"
+  },
+  "keywords": [
+    "node",
+    "system",
+    "sys",
+    "os",
+    "machine",
+    "host",
+    "network",
+    "public",
+    "ip",
+    "hash"
+  ],
+  "author": "Gustavo Gondim (mailto:gustavo@midianoalvo.com.br)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NOALVO/get-machine-info/issues"
+  },
+  "homepage": "https://github.com/NOALVO/get-machine-info#readme"
+}
